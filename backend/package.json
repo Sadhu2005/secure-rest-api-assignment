@@ -1,0 +1,17 @@
+{
+  "name": "secure-rest-api-assignment",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1",
+    "prisma": "^5.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
