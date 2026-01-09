@@ -13,6 +13,29 @@ A full-stack application built for a technical assignment, featuring secure auth
 - **Frontend**: Modern React UI built with Vite and Axios.
 - **Database**: PostgreSQL managed with Prisma ORM.
 
+## 🎥 Project Demo
+
+Watch the demo video to see the application in action:
+**[demo.mp4](./demo.mp4)**
+
+##  Screenshots
+Here are some highlights of the application:
+<p align="center">
+  <img src="./Pics/p1.png" width="30%" />
+  <img src="./Pics/p2.png" width="30%" />
+  <img src="./Pics/p3.png" width="30%" />
+</p>
+<p align="center">
+  <img src="./Pics/p4.png" width="30%" />
+  <img src="./Pics/p5.png" width="30%" />
+  <img src="./Pics/p6.png" width="30%" />
+</p>
+<p align="center">
+  <img src="./Pics/p7.png" width="30%" />
+  <img src="./Pics/p8.png" width="30%" />
+  <img src="./Pics/p9.png" width="30%" />
+</p>
+
 ##  Tech Stack
 
 - **Backend**: Node.js, Express, Prisma, PostgreSQL, JWT, bcrypt.
